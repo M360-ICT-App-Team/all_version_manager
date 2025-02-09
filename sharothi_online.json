@@ -4,8 +4,8 @@
     "data": {
         "app_name": "Sharothi Online",
         "package_name": "com.m360ict.sarothiOnline",
-        "play_store_version": "1.0.0+1",
-        "app_store_version": "1.0.0",
+        "play_store_version": "1.0.1+2",
+        "app_store_version": "1.0.1",
         "microsoft_store_version": "1.0.0+1",
         "force_update": true,
         "is_pause": false,
