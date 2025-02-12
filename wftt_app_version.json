@@ -4,7 +4,7 @@
     "data": {
         "app_name": "World Famous Tours",
         "package_name": "com.m360ict.wfttBd",
-        "play_store_version": "1.0.19+23",
+        "play_store_version": "1.0.21+25",
         "app_store_version": "1.0.11",
         "microsoft_store_version": "1.0.0+1",
         "force_update": true,
