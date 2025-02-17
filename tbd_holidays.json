@@ -5,7 +5,7 @@
         "app_name": "TBD Holidays",
         "package_name": "com.m360ict.tbdHolidays",
         "play_store_version": "1.0.1+2",
-        "app_store_version": "1.0.0",
+        "app_store_version": "1.0.1",
         "microsoft_store_version": "1.0.0+1",
         "force_update": true,
         "is_pause": false,
