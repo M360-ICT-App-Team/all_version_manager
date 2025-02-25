@@ -4,7 +4,7 @@
     "data": {
         "app_name": "Firoz Travels",
         "package_name": "com.m360ict.firozTravels",
-        "play_store_version": "1.0.0+1",
+        "play_store_version": "1.0.1+1",
         "app_store_version": "1.0.0",
         "microsoft_store_version": "1.0.0+1",
         "force_update": false,
