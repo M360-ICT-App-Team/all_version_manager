@@ -1,6 +1,6 @@
 {
     "success": true,
-    "message": "Go Around",
+    "message": "The request is ok",
     "data": {
         "app_name": "Go Around",
         "package_name": "com.m360ict.goAround",
