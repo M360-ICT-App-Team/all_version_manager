@@ -2,9 +2,9 @@
     "success": true,
     "message": "The request is ok",
     "data": {
-        "app_name": "Zenith Travels & Tours",
+        "app_name": "Zenith Tours & Travels",
         "package_name": "com.m360ict.zenithTourAndTravel",
-        "play_store_version": "1.0.0+1",
+        "play_store_version": "1.0.2+2",
         "app_store_version": "1.0.0",
         "microsoft_store_version": "1.0.0+1",
         "force_update": false,
