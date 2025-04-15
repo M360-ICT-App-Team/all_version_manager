@@ -5,7 +5,7 @@
         "app_name": "Cholo Travel",
         "package_name": "com.m360ict.cholo_travel",
         "play_store_version": "1.1.4+17",
-        "app_store_version": "1.0.0+1",
+        "app_store_version": "1.0.1+2",
         "microsoft_store_version": "1.0.0+1",
         "force_update": true,
         "is_pause": false,
