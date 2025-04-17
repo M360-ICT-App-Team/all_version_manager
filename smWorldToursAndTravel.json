@@ -2,7 +2,7 @@
     "success": true,
     "message": "The request is ok",
     "data": {
-        "myr" : 0.03622,
+        "myr" : 100,
         "app_name": "S.M World Tours And Travel",
         "package_name": "com.m360ict.smWorldToursAndTravel",
         "play_store_version": "1.0.1+2",
