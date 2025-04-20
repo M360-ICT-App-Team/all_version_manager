@@ -3,9 +3,9 @@
     "message": "The request is ok",
     "data": {
         "myr" : 0.03622,
-        "app_name": "S.M World Tours And Travel",
+        "app_name": "SM World Tours And Travel",
         "package_name": "com.m360ict.smWorldToursAndTravel",
-        "play_store_version": "1.0.2+3",
+        "play_store_version": "1.0.3+4",
         "app_store_version": "1.0.0",
         "microsoft_store_version": "1.0.0+1",
         "force_update": false,
