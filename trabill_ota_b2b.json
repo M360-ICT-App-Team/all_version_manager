@@ -5,7 +5,7 @@
         "app_name": "Trabill OTA B2B",
         "package_name": "com.m360ict.trabillOTAB2B",
         "play_store_version": "1.0.23+44",
-        "app_store_version": "1.0.15",
+        "app_store_version": "1.0.16",
         "microsoft_store_version": "1.0.0+1",
         "force_update": false,
         "pause_android": false,
