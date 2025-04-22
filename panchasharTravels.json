@@ -2,7 +2,7 @@
     "success": true,
     "message": "The request is ok",
     "data": {
-        "app_name": "PanchasharTravels",
+        "app_name": "Panchashar Travels",
         "package_name": "com.m360ict.panchasharTravels",
         "play_store_version": "1.0.0+1",
         "app_store_version": "1.0.0",
@@ -11,7 +11,7 @@
         "is_pause": false,
         "app_icon": "",
         "play_store_link": "https://play.google.com/store/apps/details?id=com.m360ict.panchasharTravels",
-        "app_store_link": "https://apps.apple.com/pk/app/ali-travels-tours/id6743364468",
+        "app_store_link": "",
         "microsoft_store_link": null,
         "id": 29,
         "created_at": "2025-03-16T17:42:59.201130+06:00",
