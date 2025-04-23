@@ -4,7 +4,7 @@
     "data": {
         "app_name": "Neel Aviation",
         "package_name": "com.m360ict.neelAviation",
-        "play_store_version": "1.0.0+1",
+        "play_store_version": "1.0.1+2",
         "app_store_version": "1.0.0",
         "microsoft_store_version": "1.0.0+1",
         "force_update": false,
