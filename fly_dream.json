@@ -4,7 +4,7 @@
     "data": {
         "app_name": "Fly Dream",
         "package_name": "com.m360ict.flyDream",
-        "play_store_version": "1.0.0+4",
+        "play_store_version": "1.0.1+4",
         "app_store_version": "1.0.1",
         "microsoft_store_version": "1.0.0+1",
         "force_update": false,
