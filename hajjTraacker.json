@@ -2,9 +2,9 @@
     "success": true,
     "message": "The request is ok",
     "data": {
-        "app_name": "hajjTraacker",
+        "app_name": "Ihram-إحرام-ইহরাম",
         "package_name": "com.m360ict.hajjTraacker",
-        "play_store_version": "1.0.3+4",
+        "play_store_version": "1.0.5+6",
         "app_store_version": "1.0.0",
         "microsoft_store_version": "1.0.0+1",
         "force_update": false,
