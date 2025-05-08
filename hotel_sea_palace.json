@@ -2,7 +2,7 @@
     "success": true,
     "message": "The request is ok",
     "data": {
-        "show_filter": true,
+        "show_filter": false,
         "app_name": "Hotel Sea Palace",
         "package_name": "com.m360ict.hotelSeaPalace",
         "play_store_version": "1.0.0+1",
