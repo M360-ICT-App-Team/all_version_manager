@@ -3,7 +3,7 @@
     "message": "The request is ok",
     "data": {
         "app_name": "World Famous Tours & Travels B2B",
-        "package_name": "com.m360ict.wfttBdB2B",
+        "package_name": "com.m360ict.wfttB2B",
         "play_store_version": "1.0.0+1",
         "app_store_version": "1.0.0",
         "microsoft_store_version": "1.0.0+1",
@@ -12,7 +12,7 @@
         "is_pause_play_store": false,
         "is_pause_app_store": false,
         "app_icon": null,
-        "play_store_link": null,
+        "play_store_link": https://play.google.com/store/apps/details?id=com.m360ict.wfttB2B,
         "app_store_link": null,
         "microsoft_store_link": null,
         "id": 30,
