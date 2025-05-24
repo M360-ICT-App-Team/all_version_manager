@@ -2,7 +2,7 @@
     "success": true,
     "message": "The request is ok",
     "data": {
-        "myr" : 1.43,
+        "myr" : 0.70,
         "app_name": "Destiny Bhutan",
         "package_name": "com.m360ict.destinyBhutan",
         "play_store_version": "1.0.0+1",
