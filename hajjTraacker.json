@@ -4,10 +4,10 @@
     "data": {
         "app_name": "Ihram-إحرام-ইহরাম",
         "package_name": "com.m360ict.hajjTraacker",
-        "play_store_version": "1.1.1+13",
+        "play_store_version": "1.1.2+14",
         "app_store_version": "1.0.0",
         "microsoft_store_version": "1.0.0+1",
-        "force_update": false,
+        "force_update": true,
         "is_pause": false,
         "app_icon": "20250126174259-45295b47.png",
         "play_store_link": "https://play.google.com/store/apps/details?id=com.m360cit.hajjTraacker",
