@@ -4,7 +4,7 @@
     "data": {
         "app_name": "Tanha Foods Stuff",
         "package_name": "com.m360ict.tanhafoodstuff",
-        "play_store_version": "1.1.0+10",
+        "play_store_version": "1.1.1+11",
         "app_store_version": "1.0.1",
         "microsoft_store_version": "1.0.0+1",
         "force_update": false,
