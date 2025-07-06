@@ -12,7 +12,7 @@
         "is_pause_play_store": false,
         "is_pause_app_store": false,
         "app_icon": "20250126174259-45295b47.png",
-        "play_store_link": "play.google.com/store/apps/details?id=com.m360ict.letsFly",
+        "play_store_link": "https://play.google.com/store/apps/details?id=com.m360ict.letsFly",
         "app_store_link": "https://apps.apple.com/us/app/lets-fly-bd/id6746708508",
         "microsoft_store_link": null,
         "id": 29,
