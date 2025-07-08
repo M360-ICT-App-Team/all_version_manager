@@ -4,8 +4,8 @@
     "data": {
         "app_name": "CRM Employee",
         "package_name": "com.crm360employee.crm",
-        "play_store_version": "1.2.5+28",
-        "app_store_version": "1.0.0",
+        "play_store_version": "1.2.6+29",
+        "app_store_version": "1.0.1",
         "microsoft_store_version": "1.0.0+1",
         "force_update": false,
         "is_pause": false,
