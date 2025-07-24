@@ -4,8 +4,8 @@
     "data": {
         "app_name": "Sohi Aviation",
         "package_name": "com.m360ict.sohiAviation",
-        "play_store_version": "1.0.0+1",
-        "app_store_version": "1.0.0+1",
+        "play_store_version": "1.0.1+2",
+        "app_store_version": "1.0.1+2",
         "microsoft_store_version": "1.0.0+1",
         "force_update": false,
         "is_pause": false,
