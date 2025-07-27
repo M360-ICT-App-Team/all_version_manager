@@ -4,7 +4,7 @@
     "data": {
         "app_name": "Booking Expert Agent Portal",
         "package_name": "com.m360ict.bookingExpertAgentPortal",
-        "play_store_version": "1.0.1",
+        "play_store_version": "1.0.2",
         "app_store_version": "1.0.1",
         "microsoft_store_version": "1.0.0+1",
         "force_update": false,
