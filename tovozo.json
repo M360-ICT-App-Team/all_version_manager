@@ -1,9 +1,23 @@
 {
     "success": true,
+    "message": "The request is ok",
     "data": {
-        "latest_version": "1.0.0",
-        "minimum_required_version": "1.0.1",
-        "play_store_link": "ds",
-        "app_store_link": "df"
+        "app_name": "Tovozo",
+        "package_name": "com.m360ict.tovozo",
+        "play_store_version": "1.0.0",
+        "app_store_version": "1.0.0",
+        "microsoft_store_version": "",
+        "force_update": false,
+        "pause_android": false,
+        "pause_ios": false,
+        "app_icon": "",
+        "play_store_link": "https://play.google.com/store/apps/details?id=com.m360ict.tovozo",
+        "app_store_link": "",
+        "microsoft_store_link": null,
+        "id": 300,
+        "created_at": "2025-07-29T17:42:59.201130+06:00",
+        "updated_at": "2025-07-29T17:42:59.201130+06:00",
+        "created_by": "zayedoyshik.m360ict@gmail.com",
+        "updated_by": null
     }
 }
