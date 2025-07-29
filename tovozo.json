@@ -1,0 +1,9 @@
+{
+    "success": true,
+    "data": {
+        "latest_version": "1.0.0",
+        "minimum_required_version": "1.0.1",
+        "play_store_link": "ds",
+        "app_store_link": "df"
+    }
+}
