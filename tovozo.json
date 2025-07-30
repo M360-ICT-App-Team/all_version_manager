@@ -9,7 +9,7 @@
         "microsoft_store_version": "",
         "force_update_android": false,
         "force_update_ios": false,
-        "pause_android": true,
+        "pause_android": false,
         "pause_ios": false,
         "app_icon": "",
         "play_store_link": "https://play.google.com/store/apps/details?id=com.m360ict.tovozo",
