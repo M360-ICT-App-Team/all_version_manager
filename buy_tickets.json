@@ -5,7 +5,7 @@
         "app_name": "Buy Tickets",
         "package_name": "com.m360ict.buytickets",
         "play_store_version": "1.0.7+8",
-        "app_store_version": "1.0.4",
+        "app_store_version": "1.0.5",
         "microsoft_store_version": "1.0.0+1",
         "force_update_play_store": false,
         "force_update_app_store": false,
