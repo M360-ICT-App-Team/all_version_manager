@@ -2,7 +2,7 @@
     "success": true,
     "message": "The request is ok",
     "data": {
-        "app_name": "Buy Tickets",
+        "app_name": "Cloud Trips",
         "package_name": "com.m360ict.cloudtrips",
         "play_store_version": "1.0.4+5",
         "app_store_version": "1.0.2",
