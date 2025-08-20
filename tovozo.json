@@ -4,8 +4,8 @@
     "data": {
         "app_name": "Tovozo",
         "package_name": "com.m360ict.tovozo",
-        "play_store_version": "1.0.1",
-        "app_store_version": "1.0.0",
+        "play_store_version": "1.0.2",
+        "app_store_version": "1.0.1",
         "microsoft_store_version": "",
         "force_update_android": false,
         "force_update_ios": false,
