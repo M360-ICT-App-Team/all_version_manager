@@ -4,7 +4,7 @@
     "data": {
         "app_name": "TOAB BTTF",
         "package_name": "com.m360ict.toab_fair",
-        "play_store_version": "1.0.21",
+        "play_store_version": "1.0.20",
         "app_store_version": "1.0.4",
         "microsoft_store_version": "1.0.0+1",
         "force_update": false,
