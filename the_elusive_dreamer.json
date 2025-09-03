@@ -2,7 +2,7 @@
     "success": true,
     "message": "The request is ok",
     "data": {
-        "app_name": "The Elusive Dreamer",
+        "app_name": "Elusive Dreamer",
         "package_name": "com.m360ict.the_elusive_dreamer",
         "play_store_version": "1.0.0",
         "app_store_version": "1.0.0",
