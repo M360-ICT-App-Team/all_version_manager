@@ -5,7 +5,7 @@
         "app_name": "M360 ICT Fair",
         "package_name": "com.m360ict.m360ict_fair",
         "play_store_version": "1.0.1+2",
-        "app_store_version": "1.0.0+1",
+        "app_store_version": "1.0.1+0",
         "microsoft_store_version": "1.0.0+1",
         "force_update": false,
         "is_pause": false,
