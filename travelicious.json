@@ -4,8 +4,8 @@
     "data": {
         "app_name": "Travelicious",
         "package_name": "com.m360ict.travelicious",
-        "play_store_version": "1.0.1+2",
-        "app_store_version": "1.0.1",
+        "play_store_version": "1.0.3+4",
+        "app_store_version": "1.0.3",
         "microsoft_store_version": "1.0.0+1",
         "force_update_play_store": false,
         "force_update_app_store": false,
