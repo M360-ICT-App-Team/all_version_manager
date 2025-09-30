@@ -5,7 +5,7 @@
         "app_name": "Sohi Airport Services",
         "package_name": "com.m360ict.sohi_airport_services",
         "play_store_version": "1.0.2",
-        "app_store_version": "1.0.0",
+        "app_store_version": "1.0.1",
         "microsoft_store_version": "1.0.0+1",
         "force_update": false,
         "is_pause": false,
