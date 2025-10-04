@@ -4,7 +4,7 @@
     "data": {
         "app_name": "School Management",
         "package_name": "com.m360ict.school_management",
-        "play_store_version": "1.0.1",
+        "play_store_version": "1.0.0",
         "app_store_version": "1.0.0",
         "microsoft_store_version": "1.0.0",
         "force_update": false,
