@@ -5,7 +5,7 @@
     "data": {
         "app_name": "FlyRume",
         "package_name": "com.m360ict.flyRumi",
-        "play_store_version": "1.0.5+6",
+        "play_store_version": "1.0.6",
         "app_store_version": "1.0.0",
         "microsoft_store_version": "1.0.0+1",
         "force_update": false,
