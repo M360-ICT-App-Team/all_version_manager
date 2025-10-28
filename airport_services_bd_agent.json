@@ -4,8 +4,8 @@
     "data": {
         "app_name": "Airport Services BD: Agent",
         "package_name": "com.m360ict.airport_services_bd_vendor",
-        "play_store_version": "1.0.4",
-        "app_store_version": "1.0.2",
+        "play_store_version": "1.0.5",
+        "app_store_version": "1.0.3",
         "microsoft_store_version": "1.0.0+1",
         "force_update": false,
         "is_pause": true,
