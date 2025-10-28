@@ -18,6 +18,6 @@
         "updated_at": "2025-02-03T17:42:59.201130+06:00",
         "created_by": "zayedoyshik.m360ict@gmail.com",
         "updated_by": null,
-        "account_deletion" : true
+        "account_deletion" : false
     }
 }
