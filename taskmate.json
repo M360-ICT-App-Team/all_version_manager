@@ -4,7 +4,7 @@
     "data": {
         "app_name": "TaskMate",
         "package_name": "com.m360ict.taskmate",
-        "play_store_version": "1.0.3",
+        "play_store_version": "1.0.4",
         "app_store_version": "1.0.1",
         "microsoft_store_version": "1.0.0+1",
         "force_update": false,
@@ -12,7 +12,7 @@
         "app_icon": "20250126174259-45295b47.png",
         "play_store_link": "https://play.google.com/store/apps/details?id=com.m360ict.taskmate",
         "app_store_link": "https://apps.apple.com/us/app/sohi-airport-services/id6752897063",
-        "isPublishingAndroid": true,
+        "isPublishingAndroid": false,
         "isPublishingiOS": true,
         "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTAwYmExY2JlYWJkZGRiYjRiNzAyNmUiLCJpYXQiOjE3NjE2NTU1MjEsImV4cCI6MTc2MjI2MDMyMX0.F5zPbe2mtTx2H92lKfoAvBmyz9-2by2hqG9zHaQbzgs",
         "microsoft_store_link": null,
