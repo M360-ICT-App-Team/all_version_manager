@@ -4,11 +4,11 @@
     "data": {
         "app_name": "Jakwan Travels",
         "package_name": "com.m360ict.jakwan_travels",
-        "play_store_version": "1.0.6",
+        "play_store_version": "1.0.7",
         "app_store_version": "1.0.0",
         "microsoft_store_version": "1.0.0+1",
         "force_update": false,
-        "is_pause": true,
+        "is_pause": false,
         "app_icon": "20250126174259-45295b47.png",
         "play_store_link": "https://play.google.com/store/apps/details?id=com.m360ict.jakwan_travels",
         "app_store_link": "https://apps.apple.com/pk/app/jakwan-travels/id6742483677",
