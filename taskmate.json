@@ -12,7 +12,7 @@
         "app_icon": "20250126174259-45295b47.png",
         "play_store_link": "https://play.google.com/store/apps/details?id=com.m360ict.taskmate",
         "app_store_link": "https://apps.apple.com/us/app/sohi-airport-services/id6752897063",
-        "isPublishingAndroid": false,
+        "isPublishingAndroid": true,
         "isPublishingiOS": true,
         "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTAwYmExY2JlYWJkZGRiYjRiNzAyNmUiLCJpYXQiOjE3NjIxNDYxODgsImV4cCI6MTc2Mjc1MDk4OH0.hoFFnpTgjDL-El5bq8JSt4FXjeTBXRLul1__vDvP0z4",
         "microsoft_store_link": null,
