@@ -4,7 +4,7 @@
     "data": {
         "app_name": "F G Tours and Travels",
         "package_name": "com.m360ict.fg_tour_and_travels",
-        "play_store_version": "1.0.0",
+        "play_store_version": "1.0.1",
         "app_store_version": "1.0.3",
         "microsoft_store_version": "1.0.0+1",
         "force_update": false,
