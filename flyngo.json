@@ -4,7 +4,7 @@
     "data": {
         "app_name": "FLYnGO",
         "package_name": "com.m360ict.flyngo",
-        "play_store_version": "1.0.0",
+        "play_store_version": "1.0.3",
         "app_store_version": "1.0.0",
         "microsoft_store_version": "",
         "force_update_android": false,
