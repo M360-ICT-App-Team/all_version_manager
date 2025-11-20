@@ -4,7 +4,7 @@
     "data": {
         "app_name": "Airport Management Admin",
         "package_name": "com.m360ict.airportManagementAdmin",
-        "play_store_version": "1.0.0",
+        "play_store_version": "1.0.1",
         "app_store_version": "1.0.0",
         "airportid": 3,
         "microsoft_store_version": "1.0.0+1",
