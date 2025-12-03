@@ -3,7 +3,7 @@
     "message": "The request is ok",
     "data": {
         "app_name": "TaskMate",
-        "package_name": "com.m360ictappstudio.taskmate",
+        "package_name": "com.m360ict.taskmate",
         "play_store_version": "1.0.0",
         "app_store_version": "1.0.4",
         "force_update": true,
