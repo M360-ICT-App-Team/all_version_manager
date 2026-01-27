@@ -4,7 +4,7 @@
     "data": {
         "app_name": "Trabill",
         "package_name": "com.m360ict.trabill",
-        "play_store_version": "1.0.5+8",
+        "play_store_version": "1.0.1+3",
         "app_store_version": "1.0.5",
         "microsoft_store_version": "1.0.0+1",
         "force_update": false,
