@@ -5,7 +5,7 @@
         "app_name": "TaskMate",
         "package_name": "com.m360ict.taskmate",
         "play_store_version": "1.0.2",
-        "app_store_version": "1.0.8",
+        "app_store_version": "1.0.9",
         "force_update": false,
         "is_pause": false,
         "play_store_link": "https://play.google.com/store/apps/details?id=com.t360.taskMate",
