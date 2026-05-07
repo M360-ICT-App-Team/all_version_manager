@@ -11,12 +11,12 @@
         "is_pause": false,
         "app_icon": "20250126174259-45295b47.png",
         "play_store_link": "https://play.google.com/store/apps/details?id=com.t360.ihrams",
-        "app_store_link": null,
+        "app_store_link": "https://apps.apple.com/us/app/ihrams/id6746413037",
         "microsoft_store_link": null,
         "id": 29,
         "created_at": "2025-02-03T17:42:59.201130+06:00",
-        "updated_at": "2026-04-28T17:42:59.201130+06:00",
+        "updated_at": "2026-05-07T20:18:59.201130+06:00",
         "created_by": "zayedoyshik.m360ict@gmail.com",
-        "updated_by": null
+        "updated_by": "shamol.m360ict@gmail.com"
     }
 }
