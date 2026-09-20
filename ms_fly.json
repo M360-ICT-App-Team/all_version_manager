@@ -1,0 +1,22 @@
+{
+    "success": true,
+    "message": "The request is ok",
+    "data": {
+        "app_name": "Ms Fly",
+        "package_name": "com.m360ict.ms_fly",
+        "play_store_version": "1.0.0",
+        "app_store_version": "1.0.0",
+        "microsoft_store_version": "",
+        "force_update": false,
+        "is_pause": false,
+        "app_icon": "",
+        "play_store_link": "",
+        "app_store_link": null,
+        "microsoft_store_link": null,
+        "id": 53,
+        "created_at": "2026-09-20T14:12:59.201130+06:00",
+        "updated_at": "2026-09-20T14:12:59.201130+06:00",
+        "created_by": "arnob.m360ict@gmail.com",
+        "updated_by": "arnob.m360ict@gmail.com"
+    }
+}
