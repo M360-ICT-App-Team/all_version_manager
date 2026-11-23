@@ -5,7 +5,7 @@
         "app_name": "Dokani",
         "package_name": "com.m360ict.dokani_360",
         "play_store_version": "1.1.2+12",
-        "app_store_version": "1.0.0",
+        "app_store_version": "1.0.1",
         "microsoft_store_version": "1.0.0+1",
         "force_update": false,
         "is_pause": false,
